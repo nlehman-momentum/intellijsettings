@@ -14,6 +14,9 @@
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
+  <action id="CloseFirstNotification">
+    <keyboard-shortcut first-keystroke="escape" />
+  </action>
   <action id="FileChooser.NewFile" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
