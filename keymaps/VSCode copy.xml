@@ -1,8 +1,4 @@
 <keymap version="1" name="VSCode copy" parent="VSCode">
-  <action id="ActivateCommitToolWindow">
-    <keyboard-shortcut first-keystroke="alt 0" />
-    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl g" />
-  </action>
   <action id="ActivateProjectToolWindow">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl e" />
@@ -13,6 +9,9 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="CheckinProject">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl g" />
   </action>
   <action id="CloseFirstNotification">
     <keyboard-shortcut first-keystroke="escape" />
