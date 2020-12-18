@@ -4,12 +4,18 @@
     <property name="created">2020-12-17T08:42:05</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2020-12-17T08:51:01</property>
+    <property name="modified">2020-12-18T13:59:18</property>
     <property name="originalScheme">Material Palenight</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.8" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Cascadia Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
