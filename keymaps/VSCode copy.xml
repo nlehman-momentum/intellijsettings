@@ -50,8 +50,21 @@
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl left" />
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
   <action id="Refactorings.QuickListPopupAction" />
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="ctrl f5" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
+  </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl t" />
+  </action>
+  <action id="RunTargetAction">
+    <keyboard-shortcut first-keystroke="shift ctrl f10" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl t" />
+  </action>
   <action id="SaveDocument">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
