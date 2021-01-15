@@ -52,7 +52,9 @@
   </action>
   <action id="QuickChangeScheme" />
   <action id="RecentFiles" />
-  <action id="Refactorings.QuickListPopupAction" />
+  <action id="Refactorings.QuickListPopupAction">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl period" />
+  </action>
   <action id="Run">
     <keyboard-shortcut first-keystroke="ctrl f5" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl p" />
