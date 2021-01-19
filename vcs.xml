@@ -22,6 +22,10 @@
           <option name="url" value="https://github.com/springframeworkguru/tb2g-testing-spring.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/springframeworkguru/tsbb2b-sfg-brewery.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\NRL\code\boot" />
