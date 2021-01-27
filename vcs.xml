@@ -42,6 +42,14 @@
           <option name="url" value="https://github.com/nlehmanDLC/brewery-monolith.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nlehmanDLC/mssc-beer-order-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nlehmanDLC/mssc-beer-inventory-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\NRL\code\boot" />
