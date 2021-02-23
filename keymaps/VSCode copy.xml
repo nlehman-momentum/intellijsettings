@@ -34,12 +34,19 @@
     <mouse-shortcut keystroke="control button1" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl enter" />
   </action>
+  <action id="GotoImplementation">
+    <keyboard-shortcut first-keystroke="ctrl f12" />
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
   <action id="GotoSymbol">
     <keyboard-shortcut first-keystroke="shift ctrl r" />
   </action>
   <action id="Help.KeymapReference" />
   <action id="HideActiveWindow">
     <keyboard-shortcut first-keystroke="shift escape" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
+  </action>
+  <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
   </action>
   <action id="NextSplitter">
