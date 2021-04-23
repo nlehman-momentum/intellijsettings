@@ -1,0 +1,6 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <option id="java.new.expr" value="false" />
+    <option id="java.clear.expression.type" value="true" />
+  </component>
+</application>
