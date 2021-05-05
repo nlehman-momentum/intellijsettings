@@ -80,6 +80,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
     <keyboard-shortcut first-keystroke="alt n" />
+    <keyboard-shortcut first-keystroke="alt j" />
   </action>
   <action id="StretchSplitToLeft">
     <keyboard-shortcut first-keystroke="alt minus" />
