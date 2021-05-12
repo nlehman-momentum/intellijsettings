@@ -13,6 +13,10 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl g" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl v" />
+  </action>
   <action id="CloseFirstNotification">
     <keyboard-shortcut first-keystroke="escape" />
   </action>
