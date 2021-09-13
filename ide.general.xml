@@ -8,6 +8,5 @@
     <entry key="compiler.document.save.enabled" value="true" />
     <entry key="compiler.automake.postpone.when.idle.less.than" value="2000" />
     <entry key="compiler.document.save.trigger.delay" value="500" />
-    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
