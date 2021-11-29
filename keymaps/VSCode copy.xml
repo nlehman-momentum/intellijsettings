@@ -24,14 +24,18 @@
     <keyboard-shortcut first-keystroke="shift alt down" />
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
-  <action id="FileChooser.NewFile" />
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl n" />
+  </action>
   <action id="FileChooser.NewFolder">
-    <keyboard-shortcut first-keystroke="alt insert" />
-    <keyboard-shortcut first-keystroke="ctrl n" />
+    <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
   <action id="FileStructurePopup">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
     <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
@@ -52,6 +56,9 @@
   </action>
   <action id="HideSideWindows">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl b" />
+  </action>
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="NextSplitter">
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl right" />
@@ -101,5 +108,8 @@
   <action id="WelcomeScreen.Plugins">
     <keyboard-shortcut first-keystroke="shift ctrl x" />
     <keyboard-shortcut first-keystroke="ctrl k" second-keystroke="ctrl x" />
+  </action>
+  <action id="copilot.openCopilot">
+    <keyboard-shortcut first-keystroke="alt enter" />
   </action>
 </keymap>
