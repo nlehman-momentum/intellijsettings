@@ -105,6 +105,7 @@
   <action id="SurroundWithEmmet">
     <keyboard-shortcut first-keystroke="ctrl m" second-keystroke="ctrl w" />
   </action>
+  <action id="TerminalNewSession" />
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="alt w" />
   </action>
